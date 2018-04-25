@@ -1,0 +1,13 @@
+First I want to compile a piece of software here through terminal and the compiler called gcc on the command line also I have created 
+C program for beginers such as
+#include <stdio.h>
+
+int main (void)
+{
+   printf ("Programming is fun.\n");
+
+   return 0;
+}
+and theis how I compile my program 
+$ gcc prog1.c
+$
